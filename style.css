@@ -71,3 +71,8 @@
     grid-row-start: ;
     grid-row-end: ;
 }
+@media (max-width: 768px){
+    .grid-img{
+        grid-gap: 5px;
+    }
+}
