@@ -72,6 +72,8 @@
 @media (max-width: 768px) and (min-width:475px){
     .container{
         width: 668px;
+        position: absolute;
+        top: 50%;
     }
     .grid-container{
         width: 100%;   
@@ -84,6 +86,8 @@
 @media (max-width: 375px) and (min-width:50px){
     .container{
         width: 370px;
+        position: absolute;
+        top: 50%;
     }
     .grid-container{
         width: 100%;   
