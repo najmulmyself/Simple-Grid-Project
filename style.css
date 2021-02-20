@@ -81,7 +81,7 @@
         grid-gap: 5px;
     }
 }
-@media (max-width: 375px) and (min-width:100px){
+@media (max-width: 375px) and (min-width:50px){
     .container{
         width: 370px;
     }
